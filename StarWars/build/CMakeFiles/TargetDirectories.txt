@@ -1,5 +1,0 @@
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/StarWars/build/CMakeFiles/edit_cache.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/StarWars/build/CMakeFiles/package_source.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/StarWars/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/StarWars/build/CMakeFiles/package.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/StarWars/build/CMakeFiles/StarWars.dir
