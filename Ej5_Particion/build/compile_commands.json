@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Ej5_Particion/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -DFMT_LOCALE -DJSON_USE_IMPLICIT_CONVERSIONS=1 @CMakeFiles/Ej5_Particion.dir/includes_CXX.rsp -g   -Wall -Wextra -pedantic -Werror -Wa,-mbig-obj -std=c++2a -o CMakeFiles\\Ej5_Particion.dir\\main.cpp.obj -c C:\\Users\\Mario\\Documents\\Universidad\\2\\PEL\\Workspace\\Ej5_Particion\\main.cpp",
-  "file": "C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Ej5_Particion/main.cpp"
-}
-]

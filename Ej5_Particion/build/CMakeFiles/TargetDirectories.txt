@@ -1,5 +1,0 @@
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Ej5_Particion/build/CMakeFiles/edit_cache.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Ej5_Particion/build/CMakeFiles/package_source.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Ej5_Particion/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Ej5_Particion/build/CMakeFiles/package.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Ej5_Particion/build/CMakeFiles/Ej5_Particion.dir
