@@ -1,0 +1,5 @@
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Act_Individual_Dlib/build/CMakeFiles/edit_cache.dir
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Act_Individual_Dlib/build/CMakeFiles/package_source.dir
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Act_Individual_Dlib/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Act_Individual_Dlib/build/CMakeFiles/package.dir
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Act_Individual_Dlib/build/CMakeFiles/Act_Individual_Dlib.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Act_Individual_Dlib/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  -DFMT_LOCALE -DJSON_USE_IMPLICIT_CONVERSIONS=1 @CMakeFiles/Act_Individual_Dlib.dir/includes_CXX.rsp -g   -Wall -Wextra -pedantic -Werror -Wa,-mbig-obj -mavx -Wreturn-type -std=c++2a -o CMakeFiles\\Act_Individual_Dlib.dir\\main.cpp.obj -c C:\\Users\\Mario\\Documents\\Universidad\\2\\PEL\\Workspace\\Act_Individual_Dlib\\main.cpp",
+  "file": "C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/Act_Individual_Dlib/main.cpp"
+}
+]
