@@ -1,5 +1,0 @@
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/dlib1/build/CMakeFiles/edit_cache.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/dlib1/build/CMakeFiles/package_source.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/dlib1/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/dlib1/build/CMakeFiles/package.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/dlib1/build/CMakeFiles/dlib1.dir
