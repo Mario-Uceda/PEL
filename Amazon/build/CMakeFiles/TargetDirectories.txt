@@ -1,5 +1,0 @@
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/amazon/build/CMakeFiles/edit_cache.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/amazon/build/CMakeFiles/package_source.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/amazon/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/amazon/build/CMakeFiles/package.dir
-C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/amazon/build/CMakeFiles/amazon.dir
