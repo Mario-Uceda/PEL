@@ -1,0 +1,1 @@
+ C:/msys64/mingw64/lib/libfmt.a C:/msys64/mingw64/lib/libdlib.dll.a -lws2_32 -lwinmm -lcomctl32 -lgdi32 -limm32 -lgif -lpng -lz -ljpeg -lcblas -llapack -lsqlite3 -lfftw3 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,16 @@
+[[nodiscard]] auto file_to_string(std::string const& filename) -> std::string
+{
+   auto in = std::ifstream{};
+   in.exceptions(std::ifstream::failbit);
+
+   in.open(filename, std::ios::binary);
+   auto contents = std::string{};
+   in.seekg(0, std::ios::end);
+   auto sz = std::streamoff{in.tellg()}; // signed integer
+   if (sz > 0) {
+      contents.resize(sz); // contiguous since C++11
+      in.seekg(0, std::ios::beg);
+      in.read(&contents[0], sz);
+   }
+   return contents;
+}

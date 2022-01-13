@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/list/main.cpp
+iostream
+-
+fmt/format.h
+-
+list
+-
+vector
+-
+string
+-
+terminal.hpp
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/list/terminal.hpp
+
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/list/terminal.hpp
+concepts
+-
+iostream
+-
+functional
+-
+sstream
+-
+string
+-
+string_view
+-
+fmt/core.h
+-
+

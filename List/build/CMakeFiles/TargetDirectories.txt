@@ -1,0 +1,5 @@
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/list/build/CMakeFiles/edit_cache.dir
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/list/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/list/build/CMakeFiles/package.dir
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/list/build/CMakeFiles/package_source.dir
+C:/Users/Mario/Documents/Universidad/2/PEL/Workspace/list/build/CMakeFiles/list.dir
